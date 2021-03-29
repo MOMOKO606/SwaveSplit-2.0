@@ -1,4 +1,4 @@
-# Introduction
+# <img src="https://raw.githubusercontent.com/MOMOKO606/Pic-Library/master/SwaveSplit_loading_pic.jpg" alt="logo1" style="zoom:50%;" />Introduction
 SwaveSplit 2.0 (Comprehensive analysis system of shear-wave splitting parameters) is a one-stop seismological analysis software, mainly used to compute shear-wave splitting parameters and study regional anisotropy issues. 
 
 The system is compatible with multiple formats of seismic waveform files, supports many kinds of flexible and convenient file operations. 
@@ -82,4 +82,4 @@ Please see the “Swavesplit v2_users_guide.chm” for details.
 
 **Patents**
 
-- **Bian L.** A method for detecting the crustal stress state and its system and related components. Patent Application CN110095814A, 2019-08-06. 析、输出结论报告全部在一个系统内完成。
+- **Bian L.** A method for detecting the crustal stress state and its system and related components. Patent Application CN110095814A, 2019-08-06. 
